@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "k8s-101"
+name = "k8s-fastapi"
 version = "0.1.0"
 description = ""
 authors = ["jarp0l <57973356+jarp0l@users.noreply.github.com>"]
